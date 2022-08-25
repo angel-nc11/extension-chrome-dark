@@ -1,0 +1,23 @@
+* {
+    background: radial-gradient(79.43% 251.58% at 23.18% 73.07%, #000000 0, #000000 44, 41%, #000000 5643%, #000000 69.58%, #000000 100% #000000 0) !important; 
+    color: rgba(255, 255, 255, .6) !important;
+}
+/* titulo google en pagina de inicio */
+.lnXdpd{
+    padding-top: 0;
+     border: .2em solid rgb(71, 219, 150);
+     box-shadow: 10px 5px 5px 5px rgb(116, 141, 116);
+     transform: rotate(-3deg);
+     margin-top: .2em !important;
+ }
+/*buscador de google*/
+.RNNXgb{
+    margin-top: .8em !important;
+}
+.logo{
+    border: 2px solid rgb(71, 219, 150);
+    box-shadow: 3.5px 2px 2px 2px rgb(116, 141, 116);
+    transform: rotate(-3deg);
+    padding: .8% !important;
+    margin-left: 25px;
+}

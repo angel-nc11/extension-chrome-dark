@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "annDark",
+    "description": "Google, wikipedia & tiktok Dark",
+    "version": "1.0",
+    "author": "ann",
+    "content_scripts": [
+        {
+        "css": ["style.css"],
+        "matches": ["https://www.google.com/*"]
+        },
+        {
+            "css":["tiktok.css"],
+            "matches": ["https://www.tiktok.com/*"]
+        },
+        {
+            "css":["wiki.css"],
+            "matches": ["https://es.wikipedia.org/*"]
+        }
+    ]
+}
